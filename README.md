@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # TO-DO LIST
 
 *(in Portuguese)*
@@ -47,7 +48,13 @@ Este projeto foi retirado de um canal no YouTube.
 **User license**  
 This project was taken from a YouTube channel, so feel free to do what you want. Download, install, use, modify, your imagination is the limit.
 
-**Source**
+**Source**  
 This project was taken from a YouTube channel.
 - **Channel** Codecourse: https://www.youtube.com/user/phpacademy
 - **Video** Build A PHP To-Do List: https://www.youtube.com/watch?v=wt3txKJCh-4
+=======
+# SIMPLE TO DO LIST
+
+### Using PHP 7 and MySQL/MariaDB 5
+
+>>>>>>> Stashed changes
