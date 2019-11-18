@@ -44,7 +44,7 @@ Este projeto foi retirado de um canal no YouTube.
 - Browse to the `index.php` file;
 - Now just use.
 
-**Use license**
+**User license**  
 This project was taken from a YouTube channel, so feel free to do what you want. Download, install, use, modify, your imagination is the limit.
 
 **Source**
