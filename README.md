@@ -1,5 +1,7 @@
 # TO-DO LIST
 
+![To-Do List](https://github.com/brcmesquita/brcmesquita-to-do-list/blob/master/img/tela-inicial.PNG)
+
 *(in Portuguese)*
 ### Usando PHP 7 e MySQL 8/MariaDB 10.4.8
 
@@ -22,8 +24,8 @@ Este projeto foi retirado de um canal no YouTube, portanto, sinta-se livre para 
 
 **Origem**  
 Este projeto foi retirado de um canal no YouTube.  
-- **Canal** Codecourse: https://www.youtube.com/user/phpacademy  
-- **Vídeo** Build A PHP To-Do List: https://www.youtube.com/watch?v=wt3txKJCh-4
+- [**Canal** Codecourse](https://www.youtube.com/user/phpacademy)   
+- [**Vídeo** Build A PHP To-Do List](https://www.youtube.com/watch?v=wt3txKJCh-4)
 
 -----------------------------
 
@@ -49,5 +51,6 @@ This project was taken from a YouTube channel, so feel free to do what you want.
 
 **Source**  
 This project was taken from a YouTube channel.
-- **Channel** Codecourse: https://www.youtube.com/user/phpacademy
-- **Video** Build A PHP To-Do List: https://www.youtube.com/watch?v=wt3txKJCh-4
+- [**Channel** Codecourse](https://www.youtube.com/user/phpacademy)   
+- [**Video** Build A PHP To-Do List](https://www.youtube.com/watch?v=wt3txKJCh-4)
+
