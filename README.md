@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # TO-DO LIST
 
 *(in Portuguese)*
@@ -52,9 +51,3 @@ This project was taken from a YouTube channel, so feel free to do what you want.
 This project was taken from a YouTube channel.
 - **Channel** Codecourse: https://www.youtube.com/user/phpacademy
 - **Video** Build A PHP To-Do List: https://www.youtube.com/watch?v=wt3txKJCh-4
-=======
-# SIMPLE TO DO LIST
-
-### Using PHP 7 and MySQL/MariaDB 5
-
->>>>>>> Stashed changes
