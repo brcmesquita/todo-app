@@ -52,12 +52,12 @@ Finalizando as configurações, é hora de inserir o banco de dados e as tabelas
   Uma [issue #2](https://github.com/brcmesquita/todo-app/issues/2) já foi aberta para tratar este problema.
 
 - **Como marcar uma tarefa como concluída?**  
-![Marcar concluida](/img/marcar-concluido.png)  
-  Ao criar uma tarefa, um botão de cor cinza, meio apagado, escrito *Mark as done* irá surgir à direita da tarefa. Basta dar apenas 1 clique neste botão, e a tarefa será marcada como concluída.
+  Ao criar uma tarefa, um botão de cor cinza, meio apagado, escrito *Mark as done* irá surgir à direita da tarefa. Basta dar apenas 1 clique neste botão, e a tarefa será marcada como concluída.  
+  ![Marcar concluida](/img/marcar-concluido.png)
 
 - **Como que eu desmarco uma tarefa concluída?**  
-![Desmarcar concluida](/img/desmarcar-concluido.png)  
-  Talvez seja necessário refazer uma tarefa, ou desfazer a tarefa que você não fez, mas marcou como concluída sem querer. As tarefas concluídas, irão ficar *tachadas* (aquele risco no meio das palavras), e o botão na direita irá receber um novo nome: *Mark as undone* (antes *Mark as done*). Basta clicar uma única vez neste botão, que ele irá desmarcar a tarefa.
+  Talvez seja necessário refazer uma tarefa, ou desfazer a tarefa que você não fez, mas marcou como concluída sem querer. As tarefas concluídas, irão ficar *tachadas* (aquele risco no meio das palavras), e o botão na direita irá receber um novo nome: *Mark as undone* (antes *Mark as done*). Basta clicar uma única vez neste botão, que ele irá desmarcar a tarefa.  
+  ![Desmarcar concluida](/img/desmarcar-concluido.png)
 
 - **Por que as tarefas que eu conclui não somem?**  
   A princípio, seria interessante saber as tarefas que você já concluiu, até pra você não as adicionar novamente. Mas uma página separada, para manter as tarefas não conluídas, será criada ([issue #3](https://github.com/brcmesquita/todo-app/issues/3)).
