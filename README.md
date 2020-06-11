@@ -40,8 +40,8 @@ Finalizando as configurações, é hora de inserir o banco de dados e as tabelas
   Você já instalou o servidor PHP, já instalou o banco de dados, agora é só utilizar. Se você estiver utilizando o XAMPP, basta acessar no seu navegador (web brownser), o seguinte endereço: ```http://localhost/todo-app```, e pronto! Vai abrir a tela inicial do seu To Do.  
 
 - **Para adicionar uma nova tarefa?**  
-    ![Adicionar tarefa](/img/nova-tarefa.png)  
     Você clica no campo onde está escrito *Digite uma tarefa aqui.* e o texto irá apagar. Comece a digitar a sua primeira tarefa, como: *Ir ao shopping*, *Estudar programação*, *Pagar contas*, *Ir trabalhar*, *Conhecer mais o GitHub* (são só exemplos). Você decide o que vai adicionar aí. Ao terminar de digitar, clique no *botãozão* **Add** ou tecle <kbd>Enter</kbd> no teclado.  
+![Adicionar tarefa](/img/nova-tarefa.png)
 
 - **Para remover uma tarefa?**  
   Digamos que não deu tempo de você concluir a tarefa, e agora que já passou, você não pode marcar como concluído, já que você não concluiu, ou talvez você simplesmente não queira mais realizar aquela tarefa, ou digitou errado. No momento, o App ainda não conta com uma função **excluir**, até lá, você deverá marcar como concluída mesmo, e ela desaparecerá da sua lista de tarefas.
