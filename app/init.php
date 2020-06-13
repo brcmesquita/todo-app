@@ -1,10 +1,13 @@
 <?php
 
+// nome ou endereço do servidor
 $hostname = "localhost";
 
+// dados de usuário e senha para conectar ao banco de dados
 $username = "root";
 $password = "";
 
+// nome do banco de dados da aplicação
 $database = "todo";
 
 session_start();
