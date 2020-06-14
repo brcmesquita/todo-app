@@ -1,6 +1,6 @@
 # To Do App
 
-![To-Do List](/img/tela-inicial.png)
+![To-Do List](img/tela-inicial.png)
 
 O **To Do App** é uma lista de tarefas bem simples, que foi desenvolvida utilizando somente:  
 
