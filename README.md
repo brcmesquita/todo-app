@@ -2,7 +2,7 @@
 
 <h3 align="center">
 
-> ![To-Do List](img/tela-inicial.png)
+> ![To-Do List](/img/tela-inicial.png)
 
 </h3>
 
