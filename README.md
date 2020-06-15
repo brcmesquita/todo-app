@@ -1,6 +1,6 @@
 # To Do App
 
-![To-Do List](/img/tela-inicial.png)
+![To-Do List](img/tela-inicial.png)
 
 O **To Do** é um app de lista de tarefas desenvolvido em PHP com MySQL. 
 
